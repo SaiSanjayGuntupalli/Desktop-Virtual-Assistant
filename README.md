@@ -14,7 +14,6 @@ Welcome to Panda, your personal desktop virtual assistant! Panda can recognize v
 - **System Applications**: Opens Notepad, Calculator, Command Prompt.
 - **Music Playback**: Plays random music from a specified directory.
 - **WhatsApp Messaging**: Sends WhatsApp messages.
-- **Selfie**: Takes a selfie using the webcam.
 - **Day Announcement**: Tells you the current day.
 
 ## Installation
@@ -53,7 +52,6 @@ Welcome to Panda, your personal desktop virtual assistant! Panda can recognize v
     - **Music Playback**: "Play some music"
     - **Day Announcement**: "What day is it?"
     - **Send WhatsApp Message**: "Send WhatsApp message"
-    - **Take a Selfie**: "Take a selfie"
     - **Exit**: "Exit", "Stop", "Quit"
 
 ## Requirements
