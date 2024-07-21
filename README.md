@@ -61,3 +61,21 @@ Welcome to Panda, your personal desktop virtual assistant! Panda can recognize v
 Refer to the `requirements.txt` file for the list of dependencies. You can install them using the command:
 ```bash
 pip install -r requirements.txt
+
+## Contributing
+Contributions are welcome! Please follow these steps to contribute:
+
+Fork the repository.
+Create a new branch (git checkout -b feature-branch).
+Commit your changes (git commit -m 'Add some feature').
+Push to the branch (git push origin feature-branch).
+Open a pull request.
+For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more details.
+
+## Contact
+For any inquiries, please reach out to Sai Sanjay Guntupalli.
+
+Thank you for using Panda! We hope it makes your life easier and more fun.
